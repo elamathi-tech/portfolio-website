@@ -1,0 +1,71 @@
+*{
+      margin:0;
+      padding:0;
+    }
+    body{
+      font-family:"Young serif", serif;
+    }
+    .container{
+      padding:50px;
+    }
+    .head-section{
+      background-color:black;
+      color:white;
+    }
+    .head-section{
+      padding: 20px;
+    }
+    .head-section__name{
+      font-size:50px;
+    }
+    .head-section__role{
+      font-size:30px;
+      margin-top:10px;
+    }
+    .head-section__home{
+      text-decoration:none;
+      background-color:orangered;
+      color:white;
+      display:inline-block;
+      padding-left:10px;
+      padding-right:10px;
+      padding-top:5px;
+      padding-bottom:5px;
+      margin-top:10px;
+    }
+    .middle-section,.end-section{
+      margin-top:30px;
+    }
+    .middle-section__input,.middle-section__message,.middle-section__submit{
+      margin-top:10px;
+    }
+    .middle-section__input{
+      border:none;
+      border-bottom:solid black 1px;
+      padding:10px
+    }
+    .middle-section__message{
+      padding:10px;
+      border:none;
+      border:solid black 1px;
+    }
+    .middle-section__submit{
+      border:none;
+      color:white;
+      background-color:orangered;
+      padding-top:10px;
+      padding-bottom:10px;
+      Padding-left:20px;
+      padding-right:20px;
+    }
+    .end-section{
+      background-color:black;
+      color:white;
+      padding:20px;
+    }
+    .end-section__title{
+      margin-bottom:10px;
+    }
+    .end-section__title a{
+      color:skyblue
+    }
