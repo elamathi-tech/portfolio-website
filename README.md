@@ -29,17 +29,6 @@ It is one of my first frontend projects and helped me strengthen my understandin
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-(Add your homepage screenshot here)
-
-### Contact Page
-
-(Add your contact page screenshot here)
-
----
 
 ## 🎯 What I Learned
 
